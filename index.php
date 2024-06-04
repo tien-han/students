@@ -9,7 +9,7 @@
     ini_set('display_errors', 1);
     error_reporting(E_ALL);
 
-    require_once $_SERVER['DOCUMENT_ROOT'].'/../config.php';
+    require_once $_SERVER['DOCUMENT_ROOT'].'/../config1.php';
 
     try {
         //Instantiate our PDO Database object
